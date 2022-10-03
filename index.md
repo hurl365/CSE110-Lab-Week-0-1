@@ -36,7 +36,7 @@ It should supposedly have a segmentation fault, but it will depend on the implem
 <sub>*This order is subject to change soon.</sub>
 
 ### **Falling Actions**
-> Outside of programming, I love digital art and I paint [anime](https://github.com/hurl365/CSE110-Lab-Week-0-1/blob/branch-created-in-VSCode/Leader%20anim.gif) from time to time. [Go back up](index.md#prologue) to check out my painting again!
+> Outside of programming, I love digital art and I paint [anime](https://github.com/hurl365/CSE110-Lab-Week-0-1/blob/branch-created-in-VSCode/Leader%20anim.gif) from time to time. [Go back up](index.md#prologue) to check out my painting again! I hope you like them ;)
 > 
 > I also like to work in our [community](https://eceusc.ucsd.edu/).xs
 > 
